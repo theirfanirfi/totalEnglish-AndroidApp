@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+<color name="lesson_finished_bottom_color">#DCD8D8</color>
+    <color name="primary">#38A8F7</color>
+    <color name="fontColor">#7B7575</color>
+    <color name="whiteColor">#ffffff</color>
+    <color name="greenColor">#47C679</color>
+    <color name="pinkColor">#FFADB9</color>
+    <color name="purpleColor">#3F51B5</color>
+    <color name="activityBackground">#F1F5F8</color>
+    <color name="linkColor">#64B5F6</color>
+    <color name="matchPhraseActBackgroundColor">#DEE0E2</color>
+    <color name="progress_hor_bg">#C1E5FD</color>
+</resources>

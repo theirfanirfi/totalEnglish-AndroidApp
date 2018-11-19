@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TotalEnglish</string>
+    <drawable name="splashscreen_image">@drawable/conversation_hi</drawable>
+    <string name="admob_app1_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="native_ad">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
